@@ -11,5 +11,7 @@
 	System.out.println("Passo 4: Da mais amor, carinho, educação");
 	
 	System.out.println("Passo 5: Passeio em familia");
+	
+	System.out.println("Passo 6: Viajar pra relaxar");
     } 
     }
