@@ -9,5 +9,7 @@
 	System.out.println("Passo 3: Ficar mais presente na vida deles");
 	
 	System.out.println("Passo 4: Da mais amor, carinho, educação");
+	
+	System.out.println("Passo 5: Passeio em familia");
     } 
     }
