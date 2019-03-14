@@ -7,5 +7,7 @@
 	System.out.println("Passo 2: Ter mais conversas e menos celular");
 	
 	System.out.println("Passo 3: Ficar mais presente na vida deles");
+	
+	System.out.println("Passo 4: Da mais amor, carinho, educação");
     } 
     }
