@@ -19,5 +19,9 @@
 	System.out.println("Passo 8: Mais respeito entre pais e filhos");
 	
 	System.out.println("Passo 9: Segurança nas escolas");
+	
+	System.out.println("Passo 10: Ter mais profissional qualificado pra perceber comportamentos estralhos");
+	
+	
     } 
     }
