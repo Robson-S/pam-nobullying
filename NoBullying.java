@@ -15,5 +15,7 @@
 	System.out.println("Passo 6: Viajar pra relaxar");
 	
 	System.out.println("Passo 7: Ivestir mais em educação");
+	
+	System.out.println("Passo 8: Mais respeito entre pais e filhos");
     } 
     }
