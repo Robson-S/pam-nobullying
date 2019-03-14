@@ -13,5 +13,7 @@
 	System.out.println("Passo 5: Passeio em familia");
 	
 	System.out.println("Passo 6: Viajar pra relaxar");
+	
+	System.out.println("Passo 7: Ivestir mais em educação");
     } 
     }
