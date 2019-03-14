@@ -17,5 +17,7 @@
 	System.out.println("Passo 7: Ivestir mais em educação");
 	
 	System.out.println("Passo 8: Mais respeito entre pais e filhos");
+	
+	System.out.println("Passo 9: Segurança nas escolas");
     } 
     }
